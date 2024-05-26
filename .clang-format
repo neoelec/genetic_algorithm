@@ -1,0 +1,7 @@
+﻿---
+BasedOnStyle: WebKit
+AlignTrailingComments: true
+ColumnLimit: '80'
+PointerAlignment: Right
+
+...

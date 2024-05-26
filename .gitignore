@@ -1,0 +1,8 @@
+.gdb_history
+.gdbinit
+.vscode
+*.bak
+*~
+bin/
+obj/
+target.cmm
